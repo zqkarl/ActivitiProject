@@ -4,7 +4,12 @@ import org.activiti.engine.ProcessEngines;
 import org.activiti.engine.repository.Deployment;
 import org.junit.Test;
 
-public class Deploy {
+/**
+ * 
+ * @author QI
+ * @date 2018-03
+ */
+public class DeployTest {
 
 	ProcessEngine processEngine = ProcessEngines.getDefaultProcessEngine();
 	

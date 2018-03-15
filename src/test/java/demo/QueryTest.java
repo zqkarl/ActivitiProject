@@ -6,7 +6,12 @@ import org.activiti.engine.ProcessEngines;
 import org.activiti.engine.task.Task;
 import org.junit.Test;
 
-public class Query {
+/**
+ * 
+ * @author QI
+ * @date 2018-03
+ */
+public class QueryTest {
 
 	@Test
 	public void startProcess(){
