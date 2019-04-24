@@ -49,7 +49,9 @@ var canvasHeight;
 
 var modelDiv = jQuery('#bpmnModel');
 var modelId = modelDiv.attr('data-model-id');
+//var modelId = 47568;
 var historyModelId = modelDiv.attr('data-history-id');
+//var historyModelId = 47568;
 var processDefinitionId = modelDiv.attr('data-process-definition-id');
 var modelType = modelDiv.attr('data-model-type');
 
